@@ -1,4 +1,4 @@
-name: deploy-auth
+name: deployauth-test
 
 on:
   push:
